@@ -1,0 +1,12 @@
+.flex-item{
+  width: 125px;
+  height: 125px;
+}
+
+#mainFrame{
+  display:flex;
+  flex-wrap: wrap;
+  width: 500px;
+  height: 500px;
+  border: 2px solid black;
+}
